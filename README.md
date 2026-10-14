@@ -1,4 +1,4 @@
-# DataRobot Labs Org Profile
+# Solution Labs Org Profile
 
 Org-level defaults for the [@datarobot-labs](https://github.com/datarobot-labs) GitHub organization. No application code lives here.
 
